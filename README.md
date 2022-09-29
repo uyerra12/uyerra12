@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi..I'm Ujwala👋
 
 <!--
 **uyerra12/uyerra12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###About Me
+I am currently pursuing Masters in Computer Science.
+I worked in the software industry for 2.5 years. I would love to explore new technologies and solving challenges. I would like to work as a software developer.
