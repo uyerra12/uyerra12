@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### About Me
 I am currently pursuing Masters in Computer Science.
-I worked in the software industry for 2.5 years. I would love to explore new technologies and solving challenges. I would like to work as a software developer.
+I would love to explore new technologies and solving challenges. I have good knowledge in Python, Java, Data Structures & Algorithms and strong computer science fundamentals with demonstrated ability to apply these skills to solve real-world problems.
