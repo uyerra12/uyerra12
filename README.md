@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me
-I am currently pursuing Masters in Computer Science.
+Passionate Software Developer.
 I would love to explore new technologies and solving challenges. I have good knowledge in Python, Java, Data Structures & Algorithms and strong computer science fundamentals with demonstrated ability to apply these skills to solve real-world problems.
